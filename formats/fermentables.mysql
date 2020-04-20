@@ -1,0 +1,117 @@
+INSERT INTO fermentables (id,name,category,graintype,country,lovibond,ebc,ppg,rate,description,brand)
+VALUES
+(1,'Extra Pale Premium Pilsner Malt','Grain','brew malt','Germany',1.5,2.8,38,'up to 100%','Pils / Pilsner / Pilseners as well any lager and ale styles requiring pale brew malt.','Weyermann'),
+(2,'Pilsner Malt','Grain','brew malt','Germany',1.8,3.5,'','up to 100%','Pilsner, Lagers, Ales','Weyermann'),
+(3,'Pale Ale Malt','Grain','brew malt','Germany',2.9,6.5,39,'up to 100%','For all beer types, Ale, Stout, Porter','Weyermann'),
+(4,'Vienna Malt','Grain','brew malt','Germany',3.3,7.5,37,'up to 100%','Full bodied, golden colored smooth tasting beers.','Weyermann'),
+(5,'Munich Malt Type I','Grain','brew malt','Germany',6.1,15,38,'','Munich malt will produce beers with full body, and aroma. Munich malt is used in many different styles of beers. Dark Lagers, Oktoberfest, Stouts and many others.','Weyermann'),
+(6,'Munich Malt Type II','Grain','brew malt','Germany',9,22.5,38,'up to 100%','Munich malt will produce beers with full body, and aroma. Munich malt is used in many different styles of beers. Dark Lagers, Oktoberfest, Stouts and many others.','Weyermann'),
+(7,'Beech Smoked Barley','Grain','smoked malt','Germany',2.8,6,35,'up to 100%','Weyermann® Beech Smoked Barley Malt is produced from Germany-grown top quality Spring barley.   This malt delivers strong beech smoke aromas and flavor, while also imparting gentle notes of vanilla and honey.
+
+Perfect for Smoked beers, and specialty beers like Bamberger Rauchbier and Kellerbier.  Also suitable for wide range of ale and lager styles.
+
+','Weyermann'),
+(8,'Oak Smoked Wheat Malt','Grain','smoked malt','Germany',2.4,5,38,'up to 80%','finest oak smoke aroma and taste; notes of vanilla and honey','Weyermann'),
+(9,'Acidulated Malt','Grain','special malt','Germany',3.2,14.5,27,'1-5% (10% for sour styles)','Use of Acidulated Malt can lower wort pH resulting in better mash efficiency, intensified fermentation, lighter color, improved flavor stability and enhanced flavor. pH 3.3 - 4.5','Weyermann'),
+(10,'Melanoidin Malt','Grain','special malt','Germany',26.9,70,'','up to 20%','improved flavor stability, fullness and rounding of the beer color
+improved red color of beer
+intense maltiness; notes of honey and biscuit','Weyermann'),
+(11,'Pale Wheat Malt','Grain','wheat malt','Germany',2,4,36,'up to 80%','typical top-fermented aroma
+a slimmer, more sprightly beer
+produces superb wheat beers with aromas appropriate for styles','Weyermann'),
+(12,'Dark Wheat Malt','Grain','wheat malt','Germany',7,17.5,37,'up to 50%','typical top-fermented aroma
+a slimmer, more sprightly beer
+produces superb wheat beers with aromas appropriate for styles','Weyermann'),
+(13,'CARAWHEAT® Caramel Wheat Malt','Grain','wheat malt','Germany',47.6,125,'','up to 15%','promoted fullness
+emphasized typical wheat malt aroma
+enhanced color
+mild notes of caramel, almonds, biscuit, and bread','Weyermann'),
+(14,'Chocolate Wheat Malt','Grain','roasted malt','Germany',396,1050,0,'1-5%','intensified aroma of dark top-fermented beers as well as improved color
+mild roast aroma','Weyermann'),
+(15,'CARAPILS®','Grain','caramel malt','Germany',2.2,4.5,37,'5-10%, for alcohol-reduced beer up to 40%','foam improvement
+improved head retention
+fuller body','Weyermann'),
+(16,'CARAHELL®','Grain','caramel malt','Germany',9.9,25,34,'10-30%','Weyermann® CARAHELL® is a drum-roasted caramel malt made from two-row, Germany barley that delivers a fuller body, improved aroma, and increased beer foam while also contributing to a more fuller, rounder body and flavor.
+','Weyermann'),
+(17,'CARARED®','Grain','caramel malt','Germany',19.3,50,'','up to 25%','fuller body
+deep, saturated color
+red color
+improved malt aroma
+notes of caramel, honey and biscuit','Weyermann'),
+(18,'CARAAMBER®','Grain','caramel malt','Germany',26.9,70,37,'up to 20%','Weyermann® CARAAMBER® is a drum-roasted caramel malt made from two-row, Germany barley that can be used to improve flavor stability, fullness and enhance color.  Full red color is achieved as well as better mash efficiency when using CARAAMBER®, while flavors of toffee, caramel and bread are imparted.
+
+Suitable for Bocks, Dunkels, Brown Ales, Red Lagers, and Amber style beers.
+
+','Weyermann'),
+(19,'CARAMUNICH® Type I','Grain','caramel malt','Germany',34.4,90,33.5,'5-10% for dark beer','Weyermann® CARAMUNICH® Type 1 is a drum-roasted caramel malt made from two-row, Germany barley. It contributes dark amber to copper hues, and adds a rich malt accent with notes of biscuit and an intense caramel aroma. CARAMUNICH® Type 1 also add body and improve head retention. Suitable for use in all lager and ale styles of beer.
+
+','Weyermann'),
+(20,'CARAMUNICH® Type II','Grain','caramel malt','Germany',45.7,120,34,'5-10% for dark beer','','Weyermann'),
+(21,'CARAMUNICH® Type III','Grain','caramel malt','Germany',57,150,34,'1-5% for light beer, pale ale','Weyermann® CARAMUNICH® Type 3 is a drum-roasted caramel malt made from two-row, Germany barley. It contributes dark amber to copper hues, and adds a rich malt accent with notes of biscuit and an intense caramel aroma. CARAMUNICH® Type 3 also add body and improve head retention. Suitable for use in all lager and ale styles of beer.
+
+','Weyermann'),
+(22,'CARAAROMA®','Grain','Caramel malt','Germany',151.2,400,36,'up to 15%','Weyermann® CARAAROMA® is a drum-roasted caramel malt made from two-row, Germany barley. CARAROMA® delivers notes of roasted nuts, dark caramel, died fruit while imparting deep amber and red hues to the finished beer.  CARAAROMA® can also be used to add body to the beer.  Great for Amber Ales and Lagers,  Stouts, Porters, Bocks and Dunkel Lager.','Weyermann'),
+(23,'CARABELGE®','Grain','caramel malt','Germany',12.7,32.5,34,'up to 30%','mild, restrained notes of caramel; notes of dried fruits and nuts
+honey-colored hue','Weyermann'),
+(24,'CARABOHEMIAN®','Grain','caramel malt','Germany',74,195,'','up to 15%','intensified caramel aroma; notes of bread, caramel, and toffee
+fuller body','Weyermann'),
+(25,'CARARYE®','Grain','caramel malt','Germany',66.5,175,'','up to 15%','typical rye flavor
+nice brown color','Weyermann'),
+(26,'Barke® Pilsner Malt','Grain','barke malt','Germany',1.8,7,37.03,'up to 100%','Weyermann® Barke® Pilsner malt is perfect for creating authentic lager style beers. It enhances body and mouthfeel substantially in the finished beer, while imparting intense malt aromas. What also sets Barke® Pilsner malt apart is it’s excellent process characteristics in the brew-house and during filtration, coupled with increased extract efficiency.
+
+Suitable for Pilsners, Bavarian Helles, Lagers of various styles and “Kellerbier”.','Weyermann'),
+(27,'Barke® Vienna Malt','Grain','barke malt','Germany',3.3,7.5,36,'up to 100%','Weyermann® Barke® Vienna Malt creates full-bodied beer, with golden color, smooth taste, and intensely malty-sweet flavors. Gentle notes of honey and nuts (almond and hazelnut) also come through when using this malt. Excellent process characteristics in the brew house and during filtration, along with increased extract efficiency set Barke® Vienna Malt apart. Weyermann® Barke® Vienna Malt is the malt for authentic lagers.
+
+Perfect for Bavarian Dunkel, \"Festbier\", \"Maerzenbier\", Pale Ale / IPA, Lager, Stouts and of course Vienna Lager.
+','Weyermann'),
+(28,'Barke® Munich Malt','Grain','barke malt','Germany',7.8,19.5,37,'up to 100%','Weyermann® Barke® Munich Malt brings forth enhanced body and dark-beer aroma, and richly malt-aromatic with notes of honey, and biscuit.  Barke® Munich malt, like the other Barke® Line malts possess excellent process characteristics in the brew house and during filtration, along with increased extract efficiency, strong malt flavor and classic characteristics for original Munich Dunkels.','Weyermann'),
+(29,'Eraclea Pilsner Malt','Grain','brew malt','Germany',1.8,3.5,'','up to 100%','malted from Eraclea premium brewing barley cultivated in the region of Venetia, Italy
+produces excellent light- to medium-body, mediterranean pale beers with excellent foam stability
+Aroma: malty-sweet with mild notes of honey
+perfectly harmonizes with mediterranean aroma hop varieties from Slovenia','Weyermann'),
+(30,'Bohemian Pilsner Malt','Grain','bohemian malt','Germany',2,4,36.8,'up to 100%','Weyermann® Bohemian Pilsner Malt is a lager-style brew malt produced from Czech barley varieties Bojo and Tolar. The Czech-grown grain is processed specifically for \"Bohemian\" characteristics to impart a full body, golden-blond color, and complex maltiness to the finished brew. It\'s perfect for authentic Bohemian pilsners and Belgian ales, but is well-suited to any beer style that requires a solid malt presence.','Weyermann'),
+(31,'Floor-Malted Bohemian Pilsner Malt','Grain','bohemian malt','Germany',2,4,'','up to 100%','made in an original floor malting facility from Bohemian spring barley
+produces authentic traditional, Bohemian-style malt flavors and aromas
+suitable for all lagers and ales','Weyermann'),
+(32,'Floor-Malted Bohemian Dark Malt','Grain','bohemian malt','Germany',6.5,16,'','up to 100%','intensified malt aroma and taste
+full body
+malt sweetness','Weyermann'),
+(33,'Floor-Malted Bohemian Wheat Malt','Grain','bohemian malt','Germany',2,4.3,'','up to 70%','intensified wheat malt aroma and taste
+mild sweetness
+creamy mouthfeel','Weyermann'),
+(34,'Abbey Malt®','Grain','belgian style malt','Germany',17.4,45,36.8,'up to 50%','Weyermann® Abbey Malt® is a highly friable brew malt with pronounced malty aromas, and assertive flavors such as honey, nuts as well as hints of chocolate.  Suitable for traditional Abbey ales, as well as Trappist beers.  Also well suited for a full range for Belgian beer styles, including fruit beers.','Weyermann'),
+(35,'Special W®','Grain','belgian style malt','Germany',114,300,33.6,'up to 15%','Weyermann® Special W® imparts strong raisin, dark fruit and bready flavor, and can be used in wide range of Belgian beer styles, as well as other styles looking to add hints of dark fruit.
+
+','Weyermann'),
+(36,'CARAFA® Type I','Grain','chocolate roasted malt','Germany',340,900,32,'1-5%','Weyermann® CARAFA® Type 1 is a light-roasted specialty malt made from high-quality spring barley. It\'s carefully roasted to add an espresso-like bouquet, coffee and chocolate flavors, and a mild but noticeable roasted aftertaste. It produces opaque beer with coffee-brown color. Weyermann® CARAFA® Type 1 is similar to \'Chocolate\' style roasted malts, and can be used in any dark lager or ale.
+
+Where malt-based bitterness is not desired, consider using Weyermann® CARAFA® Special Type 1. The de-husked version of CARAFA®, it produces rich color, body, flavor and aroma without the harsh flavors and astringency typical of dark-colored grains.','Weyermann'),
+(37,'CARAFA® Type II','Grain','chocolate roasted malt','Germany',434,1150,31.5,'1-5%','','Weyermann'),
+(38,'CARAFA® Type III','Grain','chocolate roasted malt','Germany',523,1400,32,'1-5%','','Weyermann'),
+(39,'CARAFA® Special Type I','Grain','chocolate roasted malt','Germany',340,900,29.9,'1-5%','Weyermann® CARAFA® Special Type 1 is a dark-roasted specialty malt made from high-quality spring barley. Where malt-based bitterness is not desired, Weyermann® CARAFA® Special Type 1 is a  perfect fit.  As the de-husked version of CARAFA®, it produces rich color, body, flavor and aroma without the harsh flavors and astringency typical of dark-colored grains.
+
+','Weyermann'),
+(40,'CARAFA® Special Type II','Grain','chocolate roasted malt','Germany',434,1150,29.9,'1-5%','','Weyermann'),
+(41,'CARAFA® Special Type III','Grain','chocolate roasted malt','Germany',523,1400,29.9,'1-5%','Weyermann® CARAFA® Special Type 3 is a dark-roasted specialty malt made from high-quality spring barley.  Where malt-based bitterness is not desired, Weyermann® CARAFA® Special Type 3 is a perfect fit.  As the de-husked version of CARAFA®, it produces rich color, body, flavor and aroma without the harsh flavors and astringency typical of dark-colored grains.
+
+ ','Weyermann'),
+(42,'Chocolate Wheat Malt','Grain','chocolate roasted malt','Germany',396,1050,34.8,'1-5%','intensified aroma of dark top-fermented beers as well as improved color
+mild roast aroma','Weyermann'),
+(43,'Chocolate Rye Malt','Grain','chocolate roasted malt','Germany',246,650,29.9,'1-5%','enhanced aroma of dark, top-fermented beers as well as improved color','Weyermann'),
+(44,'Chocolate Spelt Malt','Grain','chocolate roasted malt','Germany',274,725,'','up to 5%','enhanced aroma of dark top-fermented beers
+improved color','Weyermann'),
+(45,'Roasted Barley','Grain','roasted unmalted grains','Germany',434,1150,29.9,'up to 5%','Weyermann® Roasted Barley  is a roasted, unmalted barley grain has a full, roasted aroma. Excellent for stouts and other dark beers.
+
+','Weyermann'),
+(46,'Diastatic Barley Malt','Grain','diastatic malt','Germany',1.7,3.2,'','up to 50%','exceptional amylase strength
+accelerates and enhances saccharification in mash for better extract efficiency and larger proportion of ferment- ables in wort, without loss of malt flavor
+high diastatic power','Weyermann'),
+(47,'Diastatic Wheat Malt','Grain','diastatic malt','Germany',2,4,'','up to 50%','ideal addition to pale or dark beers, whenever extra diastatic power is needed in the mash
+can be used to replace „regular“ Pale Wheat Malt
+high diastatic power','Weyermann'),
+(48,'Pale Rye Malt','Grain','rye malt','Germany',3.1,7,37,'up to 60%','typical top-fermented rye flavored beers
+typical rye aroma; notes of bread
+creamy mouthfeel','Weyermann'),
+(49,'Spelt Malt','Grain','spelt malt','Germany',2.4,5,'','up to 60%','typical top-fermented spelt beers
+creamy mouthfeel
+typical spelt aroma; notes of bread','Weyermann')
